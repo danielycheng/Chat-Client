@@ -1,7 +1,7 @@
 # Chat Client - Java
 
 ##Purpose
-This program is a custom Chat Client using Google's Smack/XMPP that is able to interact with Google Chat. The project description, features, and major classes are outlined below. **This program was written in my first-year of University and has not been updated since.**
+This program is a custom Chat Client using Google's Smack/XMPP that is able to interact with Google Chat. The project description, features, and major classes are outlined below. **This program was written in my first-year of University and has not been updated since Spring 2012.**
 
 ##How to Use
 When application starts, it will display a screen that allows the user to input his/her username and password for the GoogleTalk IM network. After logging in to the GoogleTalk network, the program can successfully support all the core functionalities, such as adding and removing a buddy using his/her username, loading and displaying the user’s buddyList, and starting and receiving a chat window. In addition, the program implements a few extra features to make the app more useful.
